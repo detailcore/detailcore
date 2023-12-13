@@ -2,12 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://t.me/detailcore">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-
 <div id="stats" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=detailcore&hide_border=true&locale=ru" alt="GitHub Streak" />
 
